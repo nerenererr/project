@@ -1,0 +1,11 @@
+{
+    "name": "documentaries",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.html",
+    "dependencies": {
+        "json-server": "^1.0.0-beta.15"
+    },
+    "author": "Nerea",
+    "license": "ISC"
+}
